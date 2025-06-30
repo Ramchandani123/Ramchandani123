@@ -66,9 +66,10 @@ I'm driven by the opportunity to use data for good—especially in areas like:
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 🔗 [LinkedIn]:https://www.linkedin.com/in/himanshu-ramchandani-69956b239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 - 💼 [GitHub: Ramchandani123](https://github.com/Ramchandani123)
-- 📧 himanshu.ramchandani@example.com
+- 📧 himanshuramchandani17@icloud.com
 
 ---
 
