@@ -24,28 +24,6 @@ With hands-on experience in Python, SQL, and R, I turn raw data into actionable 
 
 ---
 
-## 📂 Featured Projects  
-
-### 📈 [Stock Price Prediction (Reliance Industries)](https://github.com/Ramchandani123/House-Price-Prediction)  
-- Predicted stock price trends using **Linear Regression & SVR**  
-- Applied `GridSearchCV` and feature scaling for performance optimization  
-- Achieved **~85% R² accuracy**, evaluated via RMSE & MAE  
-
-### 🛍️ [Diwali Sales Analysis (EDA + Insights)](https://github.com/Ramchandani123/Diwali-Sales-Analysis)  
-- Cleaned & visualized festive sales data using Python  
-- Identified consumer trends across **gender, location, and age**  
-- Suggested data-driven marketing & inventory strategies  
-
-### 🍕 [SQL Pizza Sales Dashboard](https://github.com/Ramchandani123/SQL-Pizza-Sales)  
-- Designed SQL queries for top-selling items, hourly trends, and revenue breakdown  
-- Used `JOIN`, `GROUP BY`, `CTEs` for full business performance insights  
-
-### 📊 [Regression Hyperparameter Tuning](https://github.com/Ramchandani123/Regression-Hyperparameter-tuning)  
-- Applied **GridSearchCV** to optimize regression models  
-- Compared default vs tuned models using **cross-validation techniques**  
-
----
-
 ## 🌍 Why Climate & Market Data?  
 
 I believe data can drive change where it matters most:  
