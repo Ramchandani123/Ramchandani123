@@ -1,43 +1,49 @@
 # 👋 Hi, I'm Himanshu Ramchandani  
 
 🎓 MA Economics | 📊 Data Analyst | 💻 Python • SQL • R • Excel  
-📍 India | 🌱 Passionate about **Climate Tech, Market Analysis & Predictive Modeling**
+📍 India | 🌱 Passionate about **Climate Tech, Market Analysis & Predictive Modeling**  
 
 ---
 
 ## 🚀 About Me  
 
-I’m a data-driven analyst blending **economics, analytics, and machine learning** to solve real-world problems.  
-My work focuses on **predicting outcomes**, **analyzing market trends**, and enabling **evidence-based decisions** using data.  
-With hands-on experience in Python, SQL, and R, I turn raw data into actionable insights — particularly in the areas of **climate tech**, **market analysis**, and **predictive modeling**.
+I am a data-driven analyst blending economics, machine learning, and analytics to tackle real-world problems.  
+My projects focus on **predicting outcomes**, **analyzing market trends**, and supporting **evidence-based decisions** through data.  
+With hands-on experience in tools like Python, SQL, and R, I translate messy data into meaningful insights.  
+I'm particularly excited by the intersection of **data and climate**, where analytics can drive sustainability and impact.  
 
 ---
 
 ## 💡 Core Skills  
 
 - **Programming & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL, R, Excel  
-- **Machine Learning**: Regression Models, Logistic Regression, SVR, Hyperparameter Tuning  
+- **Machine Learning**: Linear Regression, Logistic Regression, SVR, Hyperparameter Tuning  
 - **Data Handling**: EDA, Data Cleaning, Feature Engineering, Time Series Analysis  
-- **Tools & Platforms**: Jupyter Notebook, GitHub, pgAdmin, Power BI (learning), GeoPandas (learning)  
-- **Key Concepts**: Statistical Testing, A/B Testing, Regression Modeling, Model Evaluation (RMSE, R², MAE)  
+- **Tools & Platforms**: Jupyter, GitHub, pgAdmin, Power BI (learning), GeoPandas (learning)  
+- **Concepts**: Statistical Testing, A/B Testing, Regression Modeling, Model Evaluation (RMSE, R², MAE)  
 - **Domain Focus**: Climate Analytics, Market Research, Retail Sales, Public Policy  
 
 ---
 
-## 🌍 Why Climate & Market Data?  
+## 📌 Pinned Projects  
 
-I believe data can drive change where it matters most:  
-- 🌾 **Agriculture & Climate** – Empowering farmers with data-driven insights  
-- 📉 **Market Behavior** – Understanding trends to inform business & policy  
-- 🔍 **Predictive Analytics** – Building reliable models for real-world impact  
+### [Credit Card Fraud Detection](https://github.com/Ramchandani123/Credit-Card-Fraud-Detection)  
+Machine Learning model to detect fraudulent transactions using classification algorithms, EDA, and performance evaluation metrics like Precision, Recall, and ROC-AUC.  
 
 ---
 
-## 📈 What’s Next?  
+### [Twitter Sentiment Analysis](https://github.com/Ramchandani123/Twitter-Sentiment-Analysis)  
+Analyzed tweets to classify sentiments as positive, negative, or neutral using Natural Language Processing (NLP) techniques and visualization tools.  
 
-- 📊 Power BI dashboard using retail & sales datasets  
-- 🛰️ GeoPandas-based agriculture yield mapping for India  
-- 🌱 Machine Learning models for climate and sustainability projects  
+---
+
+### [SQL Pizza Sales Dashboard](https://github.com/Ramchandani123/SQL-Pizza-Sales)  
+Developed SQL queries to analyze restaurant sales, identify top-selling products, peak hours, and revenue trends for business insights.  
+
+---
+
+### [Adani Stock Analysis](https://github.com/Ramchandani123/Adani-Stock-Analysis)  
+Performed stock price analysis of Adani Enterprises using Python libraries, visualization techniques, and time series insights for financial decision-making.  
 
 ---
 
@@ -45,8 +51,8 @@ I believe data can drive change where it matters most:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-ramchandani-69956b239)  
 - 💼 [GitHub: Ramchandani123](https://github.com/Ramchandani123)  
-- 📧 himanshuramchandani17@icloud.com  
+- 📧 Email: himanshuramchandani17@icloud.com  
 
 ---
 
-> _“Turning data into decisions — for climate, markets, and society.”_  
+> _“Turning data into decisions — for climate, markets, and society.”_
